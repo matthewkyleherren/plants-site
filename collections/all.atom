@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://atelierassali.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://atelierassali.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://atelierassali.com/collections/all.atom"/>
+  <title>Atelier Assali</title>
+  <updated>2020-03-25T18:29:34+01:00</updated>
+  <author>
+    <name>Atelier Assali</name>
+  </author>
+  <entry>
+    <id>https://atelierassali.com/products/4513033617511</id>
+    <published>2020-03-25T18:29:34+01:00</published>
+    <updated>2020-03-25T18:29:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://atelierassali.com/products/adel-card-holder"/>
+    <title>Adel card holder</title>
+    <s:type>Adel Cardholder</s:type>
+    <s:vendor>Atelier Assali</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0256/0829/0407/products/cardholder_01.png?v=1585159109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Assali<br>
+        <strong>Type: </strong>Adel Cardholder<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the age of minimalism. Crafted from caviar embossed French chèvre with a distinctive L-shaped side-opening for easy access to your banknotes. Small enough to fit into any pocket or bag, With two side slots making it ideal for credit cards, transport passes or business cards.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://atelierassali.com/products/4513033617511</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">280.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://atelierassali.com/products/4440991137895</id>
+    <published>2019-12-20T20:39:11+01:00</published>
+    <updated>2019-12-20T20:39:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://atelierassali.com/products/zina-caviar-clutch"/>
+    <title>Zina caviar clutch</title>
+    <s:type>Zina Long Clutch</s:type>
+    <s:vendor>Atelier Assali</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0256/0829/0407/products/zina_caviar_01_7c36f113-eaa0-49eb-a224-729a7fcb5a4a.png?v=1576931599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Assali<br>
+        <strong>Type: </strong>Zina Long Clutch<br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>From its shape to its iconic sword lock, the Zina long clutch reflects the origins of Atelier Assali. Made using ancient </span><span>stitching</span><span> techniques. This passionately crafted “hand luggage” travels effortlessly from day to evening, carried as a clutch or tucked under the arm. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://atelierassali.com/products/4440991137895</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://atelierassali.com/products/4440986845287</id>
+    <published>2019-12-20T20:39:11+01:00</published>
+    <updated>2019-12-20T20:39:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://atelierassali.com/products/zina-natural-clutch"/>
+    <title>Zina natural clutch</title>
+    <s:type>Zina Long Clutch</s:type>
+    <s:vendor>Atelier Assali</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0256/0829/0407/products/zina_natural_01_4169faa8-1b23-4f10-9c1c-f6bad3d97345.png?v=1576931618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Atelier Assali<br>
+        <strong>Type: </strong>Zina Long Clutch<br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">Atelier Assali tapped into the archive of history for the Zina long clutch, a new day-to-evening bag in natural chèvre leather paired with its iconic sword lock. Inspired by the famous Damascus sword where the beautifully patterned metal was revered for its unsurpassed strength.</p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://atelierassali.com/products/4440986845287</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">1600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

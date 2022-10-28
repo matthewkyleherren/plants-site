@@ -1,0 +1,32 @@
+/* ============================================================================
+   FONTS. CHANGES WILL BE OVERWRITTEN
+   ========================================================================= */
+
+/**
+ * This file is used for web fonts (@font-face). It is generated from
+ * .css-files in the /dev/fonts directory. Changes in this file will be
+ * overwritten!
+ */
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'MaisonNeue';
+    src: url('MaisonNeue-Medium.woff2') format('woff2'),
+        url('MaisonNeue-Mediumac8c.woff?v=127103696992770536151566463043') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MaisonNeue';
+    src: url('MaisonNeue-Book.woff2') format('woff2'),
+        url('MaisonNeue-Bookd285.woff?v=172013493549837655861566463044') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
