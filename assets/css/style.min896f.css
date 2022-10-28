@@ -2454,10 +2454,11 @@ h6 {
     position: sticky;
     top: 0;
     z-index: 10;
-    padding-bottom: 1rem;
-    padding-top: 1rem;
+    padding-bottom: .7rem;
+    padding-top: 0.7rem;
     border-bottom: 1px solid transparent;
-    transition: border-color .4s cubic-bezier(.36, .64, .23, .94)
+    transition: border-color .4s cubic-bezier(.36, .64, .23, .94);
+    
 }
 
 .l-header .h-lines {
@@ -5989,6 +5990,14 @@ html.no-cookies .no-cookies:not(html) {
 
 html.no-cookies .cookies {
     display: none
+}
+
+.shopify-section {
+    height: calc(100vh - 70px);
+    
+        border-bottom: 1px solid rgba(0, 0, 0, .1);
+       
+    }
 }
 
 /*# sourceMappingURL=../dist/css/maps/style.min.css.map */
